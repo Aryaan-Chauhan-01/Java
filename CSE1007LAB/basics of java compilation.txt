@@ -1,0 +1,10 @@
+---how to change directory---
+cd 
+the path you want to change to
+D:
+----compile a base class----
+javac <filename>.java
+----running a compiled class----
+java <filename>
+--compile a package file---
+javac -d . <filename>.java
